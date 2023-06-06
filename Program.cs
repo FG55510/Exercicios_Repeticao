@@ -1,13 +1,38 @@
 ﻿using System; //Biblioteca que permite a utilização do fucoes matematicas entre outras;
-using System.Globalization;  //Biblioteca que permite a convercao de um tipo de dado em outro, por exemplo de double para string;
+using System.Globalization; //Biblioteca que permite a convercao de um tipo de dado em outro, por exemplo de double para string;
 
-int num;
+namespace Course //Local do programa;
+{
+    public class program //Classe onde ficara o programa
+    {
+        public static void Main(string[] args) //Funcao principal do programa onde mostrara os resultados para o usuario;
+        {
+            Console.WriteLine(Soma(2,5));
+            Console.WriteLine(Subtracao(2, 5));
+            Console.WriteLine(Multiplicacao(2, 5));
+            Console.WriteLine(Divisao(2, 5));
+        }
 
-do
-{//codigo que sera executado e repetido
-    Console.WriteLine("Digite um numero de 1 a 10: "); //interface para o usuario
-    num = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); //amazena o numero informado pelo usuario
+
+        public static int Soma(int a, int b) //funcao que retorna numeros inteiros e recebe dois numeros inteiros as parametros;
+        {
+            return a + b; //funcao retorna o resultado da operacao;
+        }
+
+        public static int Subtracao(int a, int b) //funcao que retorna numeros inteiros e recebe dois numeros inteiros as parametros;
+        {
+            return a - b; //funcao retorna o resultado da operacao;
+        }
+
+        public static int Multiplicacao(int a, int b) //funcao que retorna numeros inteiros e recebe dois numeros inteiros as parametros;
+        {
+            return a * b; //funcao retorna o resultado da operacao;
+        }
+
+        public static int Divisao(int a, int b) //funcao que retorna numeros inteiros e recebe dois numeros inteiros as parametros;
+        { 
+            return a / b; //funcao retorna o resultado da operacao;
+        }
+
+    }
 }
-while (num < 1 || num > 10); //verificacao da condicao de repeticao
-
-Console.WriteLine("Voce digitou o numero " + num); //mostra o valor de i na tela fazendo contagem até o numero que o usuario inseriu
