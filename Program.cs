@@ -4,7 +4,7 @@ using System.Globalization;  //Biblioteca que permite a convercao de um tipo de 
 int num;
 
 do
-{
+{//codigo que sera executado e repetido
     Console.WriteLine("Digite um numero de 1 a 10: "); //interface para o usuario
     num = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); //amazena o numero informado pelo usuario
 }
