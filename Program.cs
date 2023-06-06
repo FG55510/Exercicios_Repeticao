@@ -1,13 +1,13 @@
 ﻿using System; //Biblioteca que permite a utilização do fucoes matematicas entre outras;
 using System.Globalization;  //Biblioteca que permite a convercao de um tipo de dado em outro, por exemplo de double para string;
 
-int num, i = 1;
+int num;
 
-Console.WriteLine("Digite um numero intero"); //interface para o usuario
-num = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);//amazena o numero informado pelo usuario
-
-while (num >= i)//verificacao da condicao de repeticao
+do
 {
-    Console.WriteLine(i + "\n"); //mostra o valor de i na tela fazendo contagem até o numero que o usuario inseriu
-    i++; //adiciona mais 1 ao valor de i
+    Console.WriteLine("Digite um numero de 1 a 10: "); //interface para o usuario
+    num = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture); //amazena o numero informado pelo usuario
 }
+while (num < 1 || num > 10); //verificacao da condicao de repeticao
+
+Console.WriteLine("Voce digitou o numero " + num); //mostra o valor de i na tela fazendo contagem até o numero que o usuario inseriu
