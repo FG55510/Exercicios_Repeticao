@@ -31,7 +31,8 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 Descrição do projeto Programas de repetição refeitos em c#, cada branch deste projeto apresenta um dos programas, este apresenta o programa do comando For;
 
-Funcionalidades ⚙️ ✔️ Utiliza o comando For;
+Funcionalidades ⚙️
+✔️ Utiliza o comando For;
 
 ✔️ Interatividade com o usuario;
 
@@ -41,11 +42,12 @@ Pré-requisitos ⚠️ acesso a compilador de c#.
 
 Como rodar a aplicação Apenas aplique o codigo em um compilador de c# :)
 
-Testes realizados Programa_funcionando
+Testes realizados ![Programa_funcionando](https://github.com/Fernanda5510/Exercicios_Repeticao/assets/130413112/015fd04a-d9f0-40f6-a201-ae114ef3f4c8)
+
 
 Banco de Dados 🗂️ Não há no momemento.
 
-Linguagens, dependencias e libs utilizadas 📚 ![C#] (https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ... Visual Studio;Visual Studio
+Linguagens, dependencias e libs utilizadas 📚 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ... Visual Studio;Visual Studio
 
 Resolvendo Problemas nenhum problema foi encontrado.
 
