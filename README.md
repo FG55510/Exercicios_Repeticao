@@ -34,7 +34,8 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 Descrição do projeto Programas de repetição refeitos em c#, cada branch deste projeto apresenta um dos programas, este apresenta o programa do comando Do_While;
 
-Funcionalidades ⚙️ 
+Funcionalidades ⚙️
+
 ✔️ Utilização do comando Do_While;
 
 ✔️ Interatividade com o usuario;
