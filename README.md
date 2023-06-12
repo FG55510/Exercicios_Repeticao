@@ -1,5 +1,5 @@
-Exercicios_Repeticao(Prototipo_de_funcao)
-Triangulo_classe-Csharp- Versão: 1.0 Status do Projeto: ✔️ Concluído
+# Exercicios_Repeticao(Prototipo_de_funcao)
+Versão: 1.0 Status do Projeto: ✔️ Concluído
 
 Tópicos: 
 🔹 Descrição do projeto
