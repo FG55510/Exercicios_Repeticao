@@ -37,7 +37,7 @@ Descrição do projeto Programas de repetição refeitos em c#, cada branch dest
 Funcionalidades ⚙️
 ✔️ Calcula funções simples para o usuario;
 
-✔️ utliza funções;
+✔️ utiliza funções;
 
 Distribuição (https://github.com/Fernanda5510/Exercicios_Repeticao/blob/Prototipo_de_funcao/Program.cs)
 
