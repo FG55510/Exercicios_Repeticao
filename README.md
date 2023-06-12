@@ -1,5 +1,8 @@
 Exercicios_Repeticao(Do_While)
-Triangulo_classe-Csharp- Versão: 1.0 Status do Projeto: ✔️ Concluído Tópicos 🔹 Descrição do projeto
+Triangulo_classe-Csharp- Versão: 1.0 Status do Projeto: ✔️ Concluído 
+
+Tópicos 
+🔹 Descrição do projeto
 
 🔹 Funcionalidades
 
@@ -29,10 +32,10 @@ Triangulo_classe-Csharp- Versão: 1.0 Status do Projeto: ✔️ Concluído Tópi
 
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
-Descrição do projeto Programas de repetição refeitos em c#, cada branch deste projeto apresenta um dos programas, este apresenta o programa do comando do_While;
+Descrição do projeto Programas de repetição refeitos em c#, cada branch deste projeto apresenta um dos programas, este apresenta o programa do comando Do_While;
 
 Funcionalidades ⚙️ 
-✔️ ;
+✔️ Utilização do comando Do_While;
 
 ✔️ Interatividade com o usuario;
 
@@ -42,11 +45,12 @@ Pré-requisitos ⚠️ acesso a compilador de c#.
 
 Como rodar a aplicação Apenas aplique o codigo em um compilador de c# :)
 
-Testes realizados Programa_funcionando
+Testes realizados ![Programa_funcionando](https://github.com/Fernanda5510/Exercicios_Repeticao/assets/130413112/b0a7897f-e2d0-4ecd-899c-97949d4d6605)
+
 
 Banco de Dados 🗂️ Não há no momemento.
 
-Linguagens, dependencias e libs utilizadas 📚 ![C#] (https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ... Visual Studio;Visual Studio
+Linguagens, dependencias e libs utilizadas 📚 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ... Visual Studio;Visual Studio
 
 Resolvendo Problemas nenhum problema foi encontrado.
 
