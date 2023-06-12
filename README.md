@@ -35,9 +35,9 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 Descrição do projeto Programas de repetição refeitos em c#, cada branch deste projeto apresenta um dos programas, este apresenta o programa anteriormente chamado Funcao_Operacoes_Basicas e agora chamado Prototipo_de_funcao;
 
 Funcionalidades ⚙️
-✔️ Calcula funções simples apresentadas pelo usuario;
+✔️ Calcula funções simples para o usuario;
 
-✔️ Interatividade com o usuario;
+✔️ utliza funções;
 
 Distribuição (https://github.com/Fernanda5510/Exercicios_Repeticao/blob/Prototipo_de_funcao/Program.cs)
 
