@@ -1,5 +1,4 @@
 # Exercicios_Repeticao(While)
-Triangulo_classe-Csharp-
 Versão: 1.0
 Status do Projeto: ✔️ Concluído
 Tópicos
