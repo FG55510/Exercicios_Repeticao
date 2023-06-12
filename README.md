@@ -29,9 +29,10 @@ Triangulo_classe-Csharp- Versão: 1.0 Status do Projeto: ✔️ Concluído Tópi
 
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
-Descrição do projeto Programas de repetição refeitos em c#, cada branch deste projeto apresenta um dos programas, este apresenta o programa da Calculadora Swich;
+Descrição do projeto Programas de repetição refeitos em c#, cada branch deste projeto apresenta um dos programas, este apresenta o programa do comando do_While;
 
-Funcionalidades ⚙️ ✔️ Calcula funções simples apresentadas pelo usuario;
+Funcionalidades ⚙️ 
+✔️ ;
 
 ✔️ Interatividade com o usuario;
 
