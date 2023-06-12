@@ -1,5 +1,4 @@
 # Exercicios_Repeticao(Calculadora_Swich)
-Triangulo_classe-Csharp-
 Versão: 1.0
 Status do Projeto: ✔️ Concluído
 Tópicos
@@ -51,13 +50,14 @@ Como rodar a aplicação
 Apenas aplique o codigo em um compilador de c# :)
 
 Testes realizados
-Programa_funcionando
+![Programa_funcionando](https://github.com/Fernanda5510/Exercicios_Repeticao/assets/130413112/fff5e441-c4d7-44fb-b8f7-ce89853cf05f)
+
 
 Banco de Dados 🗂️
 Não há no momemento.
 
 Linguagens, dependencias e libs utilizadas 📚
-![C#] (https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ... Visual Studio;Visual Studio
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ... Visual Studio;Visual Studio
 
 Resolvendo Problemas
 nenhum problema foi encontrado.
