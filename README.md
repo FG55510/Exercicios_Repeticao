@@ -1,5 +1,5 @@
-Exercicios_Repeticao(For)
-Triangulo_classe-Csharp- Versão: 1.0 Status do Projeto: ✔️ Concluído Tópicos 🔹 Descrição do projeto
+# Exercicios_Repeticao(For)
+Versão: 1.0 Status do Projeto: ✔️ Concluído Tópicos 🔹 Descrição do projeto
 
 🔹 Funcionalidades
 
